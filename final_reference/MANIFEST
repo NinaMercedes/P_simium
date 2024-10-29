@@ -1,0 +1,11 @@
+STUDY: X
+SAMPLE: PVB_01.15 [ERR10301323, ONT_id]; PVB_24 [ERR10301330, ONT_id]; PvB_4.18 [ERR10301333, ONT_id]
+ASSEMBLYNAME: Ps_SaoPaulo
+ASSEMBLY_TYPE: isolate
+COVERAGE: Illumina (17.3) & ONT (20.5)
+PROGRAM: Spades
+PLATFORM: Illumina; Oxford Nanopore Sequencing
+MINGAPLENGTH: optional
+MOLECULETYPE: genomic DNA
+DESCRIPTION: optional
+RUN_REF: optional
